@@ -1,2 +1,3 @@
 # Python-GUI-
-This is my Repo for Python GUI _ Tkinter
+Build a login app for using Python GUI - Tkinter. 
+[login app with Tkinter](/tkinter_demo.py)
